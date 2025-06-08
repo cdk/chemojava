@@ -1,9 +1,9 @@
-CDK-GPL The Chemistry Development Kit GPL extension
+# CDK-GPL The Chemistry Development Kit GPL extension
  
 Copyright 2008-2011 The CDK Development Team
 License: GPL v2, see doc/gpl.license
 
-1. Introduction
+## Introduction
 
 You are currently reading the README file for the Chemistry Development Kit GPL extension (CDK-GPL).
 This project is hosted under http://cdk.sourceforge.net
@@ -19,6 +19,8 @@ IMPORTANT: Unlike the CDK itself, this library is not LGPL, but GPL. This projec
 CDK library itself. This is a separate library, which is based on the CDK and extends it with
 code which uses GPL libraries.
 
-2. Compile
+## Compile
 
-> ant dist-all
+```shell
+ant dist-all
+```
